@@ -41,16 +41,18 @@ This is where I put my projects. Everything here is built from scratch.
 
 ---
 
+## 📬 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdnourguellaa50@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdennour-guellaa/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdennour-s-portfolio.vercel.app/)
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abdnour0&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdnour0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdnour0&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 </p>
 
 ---
@@ -61,11 +63,3 @@ This is where I put my projects. Everything here is built from scratch.
 - 📚 3rd year @ EMSI — Software Engineering
 - 🤙 I speak Arabic, English (C1) and French
 - 🔍 Currently looking for an internship — July 2026
-
----
-
-## 📬 Reach Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdnourguellaa50@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdennour-guellaa/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://abdennour-s-portfolio.vercel.app/)
