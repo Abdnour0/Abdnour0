@@ -52,7 +52,7 @@ This is where I put my projects. Everything here is built from scratch.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Abdnour0&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=Abdnour0&theme=tokyonight&hide_border=true" height="165" style="pointer-events:none;"/>
 </p>
 
 ---
