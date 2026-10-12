@@ -60,6 +60,6 @@ This is where I put my projects. Everything here is built from scratch.
 ## 👤 A Bit About Me
 
 - 🇲🇦 From Casablanca, Morocco
-- 📚 3rd year @ EMSI — Software Engineering
+- 📚 4rd year @ EMSI — Software Engineering
 - 🤙 I speak Arabic, English (C1) and French
 - 🔍 Currently looking for an internship — July 2026
